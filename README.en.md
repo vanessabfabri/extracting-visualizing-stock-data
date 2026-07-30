@@ -355,8 +355,6 @@ The project generates two dashboards:
 - Historical Share Price
 - Historical Quarterly Revenue
 
-> Add screenshots of your generated graphs inside the `/images` directory and reference them here.
-
 Example:
 
 ```markdown
