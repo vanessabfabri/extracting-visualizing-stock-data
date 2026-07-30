@@ -400,9 +400,9 @@ The certification covers:
 
 Data Analytics Portfolio Project
 
-📌 LinkedIn: *Add your LinkedIn profile here*
+📌 LinkedIn: *(https://www.linkedin.com/in/vanessafabri/)* 
 
-📌 GitHub: *Add your GitHub profile here*
+📌 GitHub: *(https://github.com/vanessabfabri)*
 
 ---
 
