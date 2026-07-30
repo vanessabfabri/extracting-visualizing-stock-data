@@ -60,6 +60,6 @@ This project analyzes:
 
 Data Analytics Portfolio Project
 
-📌 LinkedIn: *(linkedin.com/in/vanessafabri )*
+📌 LinkedIn: *(linkedin.com/in/vanessafabri)*
 
 📌 GitHub: *(https://github.com/vanessabfabri)*
