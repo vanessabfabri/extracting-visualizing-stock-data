@@ -1,13 +1,8 @@
 # 📈 Extracting and Visualizing Stock Data
 
+[🇺🇸 English](README.en.md) | [🇧🇷 Português](README.pt-BR.md) | Extracting_and_Visualizing_Stock_Data.ipynb
+
 Financial data analysis project focused on extracting, cleaning, and visualizing stock market and revenue data using Python, APIs, and Web Scraping techniques.
-
----
-
-## 🌎 Languages
-
-- 🇺🇸 [English](README.en.md)
-- 🇧🇷 [Português](README.pt-BR.md)
 
 ---
 
