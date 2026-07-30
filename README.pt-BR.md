@@ -399,9 +399,9 @@ Entre os tópicos abordados na certificação estão:
 
 Projeto de Portfólio em Análise de Dados
 
-📌 LinkedIn: *(https://www.linkedin.com/in/vanessafabri/)* 
+📌 LinkedIn: [linkedin.com/in/vanessafabri](https://www.linkedin.com/in/vanessafabri/)
 
-📌 GitHub: *(https://github.com/vanessabfabri)*
+📌 GitHub: [vanessabfabri](https://github.com/vanessabfabri)
 
 ---
 
