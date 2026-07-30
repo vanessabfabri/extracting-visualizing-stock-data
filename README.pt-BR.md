@@ -130,8 +130,8 @@ tesla_revenue
 
 As seguintes transformações foram aplicadas:
 
-- Remoção do símbolo `$`
-- Remoção de vírgulas
+- Remoção do símbolo (`$`)
+- Remoção de vírgulas (`,`)
 - Remoção de valores vazios
 - Remoção de valores nulos
 
@@ -353,6 +353,14 @@ O projeto gera dois dashboards:
 
 - Histórico dos preços das ações
 - Receita trimestral histórica
+
+Exemplo:
+
+```markdown
+images/tesla_stock_graph.png
+
+images/gamestop_stock_graph.png
+```
 
 ---
 
