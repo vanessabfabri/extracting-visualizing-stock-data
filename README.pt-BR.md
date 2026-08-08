@@ -216,7 +216,8 @@ make_graph(tesla_data, tesla_revenue, "Tesla")
 ```
 
 O gráfico permite visualizar a evolução da receita da empresa ao lado do comportamento de suas ações ao longo do tempo.
-![Tesla](tesla_stock_graph.png)
+
+![Tesla](assets/tesla_stock_graph.png)
 
 ---
 
@@ -231,7 +232,8 @@ make_graph(gme_data, gme_revenue, "GameStop")
 ```
 
 A visualização destaca a relação entre o desempenho financeiro da empresa e o comportamento do mercado.
-![Results](gamestop_stock_graph.png)
+
+![Gamestop](assets/gamestop_stock_graph.png)
 
 ---
 
