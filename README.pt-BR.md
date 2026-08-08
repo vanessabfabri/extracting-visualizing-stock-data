@@ -216,6 +216,7 @@ make_graph(tesla_data, tesla_revenue, "Tesla")
 ```
 
 O gráfico permite visualizar a evolução da receita da empresa ao lado do comportamento de suas ações ao longo do tempo.
+![Results](tesla_stock_graph.png)
 
 ---
 
@@ -230,6 +231,7 @@ make_graph(gme_data, gme_revenue, "GameStop")
 ```
 
 A visualização destaca a relação entre o desempenho financeiro da empresa e o comportamento do mercado.
+![Results](gamestop_stock_graph.png)
 
 ---
 
@@ -337,30 +339,6 @@ Execute todas as células sequencialmente para:
 2. Realizar o Web Scraping das receitas
 3. Limpar os conjuntos de dados
 4. Gerar as visualizações
-
----
-
-## Visualizações Geradas
-
-O projeto gera dois dashboards:
-
-### Tesla
-
-- Histórico dos preços das ações
-- Receita trimestral histórica
-
-### GameStop
-
-- Histórico dos preços das ações
-- Receita trimestral histórica
-
-Exemplo:
-
-```markdown
-images/tesla_stock_graph.png
-
-images/gamestop_stock_graph.png
-```
 
 ---
 
