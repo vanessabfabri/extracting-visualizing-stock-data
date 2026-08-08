@@ -216,7 +216,7 @@ make_graph(tesla_data, tesla_revenue, "Tesla")
 ```
 
 O gráfico permite visualizar a evolução da receita da empresa ao lado do comportamento de suas ações ao longo do tempo.
-![Results](tesla_stock_graph.png)
+![Tesla](tesla_stock_graph.png)
 
 ---
 
