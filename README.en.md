@@ -219,6 +219,8 @@ make_graph(tesla_data, tesla_revenue, "Tesla")
 
 The chart provides a visual comparison between Tesla's stock performance and revenue evolution over time.
 
+![Tesla](assets/tesla_stock_graph.png)
+
 ---
 
 ## Question 6: GameStop Visualization
@@ -232,6 +234,8 @@ make_graph(gme_data, gme_revenue, "GameStop")
 ```
 
 This visualization highlights the relationship between GameStop's business performance and stock market behavior.
+
+![Gamestop](assets/gamestop_stock_graph.png)
 
 ---
 
@@ -338,30 +342,6 @@ Run all notebook cells sequentially to:
 2. Scrape revenue tables
 3. Clean datasets
 4. Generate visualizations
-
----
-
-## Example Visualizations
-
-The project generates two dashboards:
-
-### Tesla
-
-- Historical Share Price
-- Historical Quarterly Revenue
-
-### GameStop
-
-- Historical Share Price
-- Historical Quarterly Revenue
-
-Example:
-
-```markdown
-images/tesla_stock_graph.png
-
-images/gamestop_stock_graph.png
-```
 
 ---
 
