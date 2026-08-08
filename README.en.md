@@ -219,7 +219,7 @@ make_graph(tesla_data, tesla_revenue, "Tesla")
 
 The chart provides a visual comparison between Tesla's stock performance and revenue evolution over time.
 
-![Tesla](assets/tesla_stock_graph.png)
+![Tesla](images/tesla_stock_graph.png)
 
 ---
 
@@ -235,7 +235,7 @@ make_graph(gme_data, gme_revenue, "GameStop")
 
 This visualization highlights the relationship between GameStop's business performance and stock market behavior.
 
-![Gamestop](assets/gamestop_stock_graph.png)
+![Gamestop](images/gamestop_stock_graph.png)
 
 ---
 
